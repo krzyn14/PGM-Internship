@@ -1,4 +1,4 @@
-# Zadanie 2: Ocena zawodnika X pod kątem gry na wahadle
+# Zadanie 2: Ocena zawodnika pod kątem gry na wahadle
 
 ## 1. Zdefiniowanie profilu zawodnika
 
