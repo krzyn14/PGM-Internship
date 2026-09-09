@@ -21,4 +21,4 @@
 **W postaci grafiki:**
 <img width="2400" height="1000" alt="image" src="https://github.com/user-attachments/assets/af8bce97-022a-4c19-aaed-fd2e3b609832" />
 
- **2.** Rozwiązanie zadania drugiego miało formę opisową. Odpowiedź zawarta jest w folderze _exercise_2_, gdzie skrupulatnie opisałem metodologię jaką obrałbym przygotowując analizę dla sztabu pierwszej drużyny Pogoni.
+ **2.** Rozwiązanie zadania drugiego miało formę opisową. Odpowiedź zawarta jest w folderze _exercise_2_ w pliku _analiza_wahadlowego.md_, gdzie skrupulatnie opisałem metodologię jaką obrałbym przygotowując analizę dla sztabu pierwszej drużyny Pogoni.
