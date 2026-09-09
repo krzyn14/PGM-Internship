@@ -181,7 +181,7 @@ Do "suchych" danych dodałbym własną interpretację wyników w formie opisu ja
 
 ## 10. Końcowa rekomendacja
 
-Uważań, że końcowa odpowiedź nie powinna ograniczać się do prostego „tak” albo „nie”. Zawodnika spróbowałbym sklasyfikować jako:
+Uważam, że końcowa odpowiedź nie powinna ograniczać się do prostego „tak” albo „nie”. Zawodnika spróbowałbym sklasyfikować jako:
 
 - pasującego do roli;
 - pasującego warunkowo;
@@ -195,4 +195,4 @@ Do rekomendacji dołączyłbym:
 - porównanie z obecnymi wahadłowymi Pogoni;
 - pozycję zawodnika na tle ligi;
 
-Pamiętałbym tez przede wszystkim o tym, ze zawodnik nie musi znajdować się w najwyższym percentylu każdej metryki. Powinien przede wszystkim odpowiadać wymaganiom wahadłowego w systemie 3-5-2 Pogoni i oferować cechy, których zespół rzeczywiście potrzebuje. Dlatego własna klasyfikacja powinna byś traktowana jako sugestia dla sztabu, a ważniejszym elementem byłyby rekomendacje, czyli mocne strony zawodnika i porównanie z zawodnikami Pogoni czy tez innymi ligowcami.
+Pamiętałbym tez o tym, ze zawodnik nie musi znajdować się w najwyższym percentylu każdej metryki. Powinien przede wszystkim odpowiadać wymaganiom wahadłowego w systemie 3-5-2 Pogoni i oferować cechy, których zespół rzeczywiście potrzebuje. Dlatego własna klasyfikacja powinna byś traktowana jako sugestia dla sztabu, a ważniejszym elementem byłyby rekomendacje, czyli mocne strony zawodnika i porównanie z zawodnikami Pogoni czy tez innymi ligowcami.
