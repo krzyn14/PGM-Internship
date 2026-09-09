@@ -177,11 +177,11 @@ Przykładowa tabela porównawcza:
 | Odbiory i przechwyty/90 | — | — | — | — |
 | Straty/90 | — | — | — | — |
 
-Do "suchych" danych dodałbym własną interpretację wyników jako forma sugestii dla sztabu.
+Do "suchych" danych dodałbym własną interpretację wyników w formie opisu jako forma sugestii dla sztabu.
 
 ## 10. Końcowa rekomendacja
 
-Końcowa odpowiedź nie powinna ograniczać się do prostego „tak” albo „nie”. Zawodnika zaklasyfikowałbym jako:
+Uważań, że końcowa odpowiedź nie powinna ograniczać się do prostego „tak” albo „nie”. Zawodnika spróbowałbym sklasyfikować jako:
 
 - pasującego do roli;
 - pasującego warunkowo;
@@ -194,6 +194,5 @@ Do rekomendacji dołączyłbym:
 - potencjalne ryzyka;
 - porównanie z obecnymi wahadłowymi Pogoni;
 - pozycję zawodnika na tle ligi;
-- poziom pewności rekomendacji;
 
-Pamiętałbym tez przede wszystkim o tym, ze zawodnik nie musi znajdować się w najwyższym percentylu każdej metryki. Powinien przede wszystkim odpowiadać wymaganiom wahadłowego w systemie 3-5-2 Pogoni i oferować cechy, których zespół rzeczywiście potrzebuje.
+Pamiętałbym tez przede wszystkim o tym, ze zawodnik nie musi znajdować się w najwyższym percentylu każdej metryki. Powinien przede wszystkim odpowiadać wymaganiom wahadłowego w systemie 3-5-2 Pogoni i oferować cechy, których zespół rzeczywiście potrzebuje. Dlatego własna klasyfikacja powinna byś traktowana jako sugestia dla sztabu, a ważniejszym elementem byłyby rekomendacje, czyli mocne strony zawodnika i porównanie z zawodnikami Pogoni czy tez innymi ligowcami.
