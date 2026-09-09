@@ -5,7 +5,8 @@
         i wgraniu danych meczowych ze Statsbomb (*import_csv.py*), a także
         kod, który wylicza xG diff dla każdego stanu meczu dla obu drużyn i
         przedstawia wynik w postaci tabeli wraz z liczbą oddanych strzałów i
-        xg_for/xg_against, a także grafiki (*calculate_xg.py*).
+        xg_for/xg_against, a także grafiki (*calculate_xg.py*). 
+        Dodatkowo w pliku _guide.md_ znajduje się instrukcja jak wykonać program.
 
 **xG Difference in each Game State:**
 
