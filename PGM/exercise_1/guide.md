@@ -40,7 +40,7 @@ exercise_1/data
 Następnie należy uruchomić:
 
 ```bash
-python exercise_1/import_csv.py
+python import_csv.py
 ```
 
 Skrypt utworzy bazę SQLite i zaimportuje dane do tabeli `events_raw`.
@@ -52,7 +52,7 @@ Ten krok może być pominięty z racji tego, że baza została zaimportowana do 
 Aby obliczyć różnicę xG dla każdego stanu meczu, należy uruchomić:
 
 ```bash
-python exercise_1/calculate_xg.py
+python calculate_xg.py
 ```
 
 Skrypt:
